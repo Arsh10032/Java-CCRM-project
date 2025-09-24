@@ -1,0 +1,43 @@
+# Compiled Java bytecode files
+*.class
+
+# JAR files (if any)
+*.jar
+*.war
+*.ear
+
+# Runtime generated folders
+/backup/
+/data/
+
+# IDE files
+.vscode/
+.idea/
+*.iml
+.eclipse/
+.metadata/
+bin/
+.classpath
+.project
+.settings/
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+*.tmp
+*.temp
+
+# Build directories
+target/
+build/
+out/
+
+# Logs
+*.log
+
+# Package files
+*.nar
+*.zip
+*.tar.gz
+*.rar
